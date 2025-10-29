@@ -5,3 +5,10 @@ scikit-learn
 tensorboard
 streamlit
 plotly
+
+## Hyperparameter Tuning
+
+# tensorflow==2.18.0 
+# keras==3.6.0 
+# scikeras==0.13.0 
+# scikit-learn==1.5.2

@@ -1,9 +1,7 @@
-pip==25.3
 tensorflow==2.15.0
 pandas
 numpy
 scikit-learn
 tensorboard
-matplotlib
 streamlit
 plotly
